@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/A_Game/Scenes/ArcheryScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/A_Game/Scenes/TuhoScene.unity
+    guid: 173ddaf8c31fffb4fb12741ca30ae508
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f2181f316d6ef2d4e8fa8cfef6b1c958, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 46e87dfd7420a6e41ac0e8df76dcbe36, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 11393b1f941cabb4ebafd65c53793f55, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ffbd822d50c14e478e955888c0e18b9, type: 2}
